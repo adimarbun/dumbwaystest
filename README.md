@@ -30,6 +30,7 @@ untuk soal no 7 hasilnya sudah sesuai dengan soal kak
 saya menggunakan xampp untuk localhostnya kak
 untuk kodenya bisa dilihat di folder kak
 saya menggunakan bostrap untuk tampilannya kak
+saya menggunakan program PHP
 
 untuk nama dan deskripsi bukunya nya maaf kak saya buat tidak rapi soalnya buru buru tadi kak
 dan untuk input buku baru saya upload  gambar yang sama kak
